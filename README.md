@@ -1,1 +1,1 @@
-# Python---variables-Data-types-string-smethods
+# Python---variables-Data-types-string-methods
